@@ -1,0 +1,15 @@
+.ultra {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 940px;
+    width: 940px;
+    border: 8px solid pink;
+}
